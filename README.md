@@ -4,8 +4,6 @@ Script hub for game "Electric State DarkRP" on Roblox
 # Scripts
 Es Hub currently contains the following scripts:
 
-* test1
-uwu
+* nothing
 
-* test2
-owo
+The great thing about nothing is that it is nothing.
